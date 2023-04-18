@@ -1,0 +1,20 @@
+.font-title{
+  font-size: 26px;
+  font-weight: bold;
+  
+}
+.font-sub{
+  font-size: 20px;
+  font-weight: 300;
+
+}
+.d-flex{
+  display: flex;
+}
+.justify-space-between{
+  justify-content: space-between;
+}
+.align-center{
+  align-items: center;;
+}
+.mt-2{ margin-top: 20px;}
